@@ -12,6 +12,6 @@ var removeDuplicates = function(s){
       return stack.join("")
 }
 
-let s = "abbaca" 
+//let s = "abbaca" 
 
-console.log(removeDuplicates(s))
+//console.log(removeDuplicates(s))
